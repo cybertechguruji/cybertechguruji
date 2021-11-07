@@ -1,0 +1,30 @@
+.card-menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.card {
+  margin: 10px;
+}
+.card-body {
+  text-decoration: none;
+  color: black;
+  margin: auto;
+}
+.menucard {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  box-shadow: 0 2px 2px grey;
+}
+.menucard .img {
+  border-radius: 10px 10px 0 0;
+}
+.menucard .title {
+  text-align: center;
+  margin: 10px;
+}
+.menucard:hover {
+  box-shadow: 1px 1px 10px lightgrey, -1px -1px 10px lightgrey;
+}

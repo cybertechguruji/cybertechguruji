@@ -1,0 +1,17 @@
+.main {
+  background-color: inherit;
+}
+.main .heading {
+  font-size: 3em;
+  text-align: center;
+  margin: 10px auto;
+}
+.container {
+  margin: 5px;
+  display: flex;
+  border-radius: 10px;
+  flex-wrap: wrap;
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+}
