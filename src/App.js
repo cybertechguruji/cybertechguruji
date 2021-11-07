@@ -13,7 +13,7 @@ function App() {
       <div className="App">
         <Header />
         <Switch>
-          <IndexRoute path="/blogs" component={Blog} />
+          <Route path="/blogs" component={Blog} />
 
           <Route path="/cheatsheets" component={CheatSheets} />
 
