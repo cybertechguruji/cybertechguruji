@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cybertechguruji/static/css/main.6ef9a498.chunk.css",
-    "main.js": "/cybertechguruji/static/js/main.0ab124f0.chunk.js",
-    "main.js.map": "/cybertechguruji/static/js/main.0ab124f0.chunk.js.map",
+    "main.js": "/cybertechguruji/static/js/main.e7baca6a.chunk.js",
+    "main.js.map": "/cybertechguruji/static/js/main.e7baca6a.chunk.js.map",
     "runtime-main.js": "/cybertechguruji/static/js/runtime-main.e7c16175.js",
     "runtime-main.js.map": "/cybertechguruji/static/js/runtime-main.e7c16175.js.map",
     "static/js/2.36c7fa20.chunk.js": "/cybertechguruji/static/js/2.36c7fa20.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.e7c16175.js",
     "static/js/2.36c7fa20.chunk.js",
     "static/css/main.6ef9a498.chunk.css",
-    "static/js/main.0ab124f0.chunk.js"
+    "static/js/main.e7baca6a.chunk.js"
   ]
 }
