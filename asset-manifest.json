@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CyberTechGuruji/static/css/main.6ef9a498.chunk.css",
+    "main.js": "/CyberTechGuruji/static/js/main.0ab124f0.chunk.js",
+    "main.js.map": "/CyberTechGuruji/static/js/main.0ab124f0.chunk.js.map",
+    "runtime-main.js": "/CyberTechGuruji/static/js/runtime-main.cdd492b4.js",
+    "runtime-main.js.map": "/CyberTechGuruji/static/js/runtime-main.cdd492b4.js.map",
+    "static/js/2.36c7fa20.chunk.js": "/CyberTechGuruji/static/js/2.36c7fa20.chunk.js",
+    "static/js/2.36c7fa20.chunk.js.map": "/CyberTechGuruji/static/js/2.36c7fa20.chunk.js.map",
+    "static/js/3.38fd819c.chunk.js": "/CyberTechGuruji/static/js/3.38fd819c.chunk.js",
+    "static/js/3.38fd819c.chunk.js.map": "/CyberTechGuruji/static/js/3.38fd819c.chunk.js.map",
+    "index.html": "/CyberTechGuruji/index.html",
+    "static/css/main.6ef9a498.chunk.css.map": "/CyberTechGuruji/static/css/main.6ef9a498.chunk.css.map",
+    "static/js/2.36c7fa20.chunk.js.LICENSE.txt": "/CyberTechGuruji/static/js/2.36c7fa20.chunk.js.LICENSE.txt",
+    "static/media/codepen.0c1f4c33.png": "/CyberTechGuruji/static/media/codepen.0c1f4c33.png",
+    "static/media/instagram.1311da61.png": "/CyberTechGuruji/static/media/instagram.1311da61.png",
+    "static/media/logo.0a66d4e5.png": "/CyberTechGuruji/static/media/logo.0a66d4e5.png",
+    "static/media/profile.f77a9006.jpg": "/CyberTechGuruji/static/media/profile.f77a9006.jpg",
+    "static/media/react.396536ce.png": "/CyberTechGuruji/static/media/react.396536ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd492b4.js",
+    "static/js/2.36c7fa20.chunk.js",
+    "static/css/main.6ef9a498.chunk.css",
+    "static/js/main.0ab124f0.chunk.js"
+  ]
+}
