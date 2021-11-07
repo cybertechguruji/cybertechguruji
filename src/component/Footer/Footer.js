@@ -79,7 +79,7 @@ function Footer() {
           </div>
           <div className="subfooter2">
             <div className="menu">
-              <Link to="/blogs">Blog</Link>
+              <Link to="/">Blog</Link>
               <Link to="/projects">Project</Link>
               <Link to="/cheatsheets">CheatSheets</Link>
               <Link to="/about-me">About Me</Link>

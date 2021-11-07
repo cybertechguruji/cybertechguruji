@@ -13,7 +13,7 @@ function Header() {
         </div>
         <ul className="links">
           <li>
-            <Link to="/blogs">Blog</Link>
+            <Link to="/">Blog</Link>
           </li>
           <li>
             <Link to="/projects">Projects</Link>
