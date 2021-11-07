@@ -79,10 +79,10 @@ function Footer() {
           </div>
           <div className="subfooter2">
             <div className="menu">
-              <Link to="/">Blog</Link>
-              <Link to="/Projects">Project</Link>
-              <Link to="/CheatSheets">CheatSheets</Link>
-              <Link to="/About me">About Me</Link>
+              <Link to="/blogs">Blog</Link>
+              <Link to="/projects">Project</Link>
+              <Link to="/cheatsheets">CheatSheets</Link>
+              <Link to="/about-me">About Me</Link>
             </div>
             <div className="end">
               Made with{" "}
